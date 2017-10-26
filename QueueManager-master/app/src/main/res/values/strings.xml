@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Queue Manager</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_query" translatable="false">Query</string>
+    <string name="title_activity_detail" translatable="false">Details</string>
+    <string name="title_activity_completed_actvity">Completed</string>
+    <string name="title_activity_completed_detail">Details</string>
+    <string name="action_completed">Completed</string>
+    <string name="action_deleted">Delete All</string>
+</resources>
